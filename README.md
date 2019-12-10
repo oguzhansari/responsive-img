@@ -11,6 +11,6 @@ Bir img tagına eklediğiniz responsive seçenekler şu şekilde senoryoya tabi 
 
 HTML tarafta json verisindeki değerleri mutlaka tek tırnak içine alın.
 
-     *<img src="assets/img/about-img.jpg" data-responsive-img="{'type': 'src', 'src': 'http://via.placeholder.com/576x300','min576': 'http://via.placeholder.com/768x280','min768': 'http://via.placeholder.com/992x300','min992': 'http://via.placeholder.com/1140x320','min1200': 'assets/img/about-img.jpg'}" data-aos="fadeIn" data-aos-duration="600" data-aos-offset="-200" data-aos-delay="0" />
-     *<div data-responsive-img="{'type': 'src', 'src': 'http://via.placeholder.com/576x300','min576': 'http://via.placeholder.com/768x280','min768': 'http://via.placeholder.com/992x300','min992': 'http://via.placeholder.com/1140x320','min1200': 'assets/img/about-img.jpg'}" data-aos="fadeIn" data-aos-duration="600" data-aos-offset="-200" data-aos-delay="0" />
+     *<img src="assets/img/about-img.jpg" data-responsive-img="{'type': 'src', 'src': 'http://via.placeholder.com/576x300','min576': 'http://via.placeholder.com/768x280','min768': 'http://via.placeholder.com/992x300','min992': 'http://via.placeholder.com/1140x320','min1200': 'assets/img/about-img.jpg'}" />
+     *<div data-responsive-img="{'type': 'src', 'src': 'http://via.placeholder.com/576x300','min576': 'http://via.placeholder.com/768x280','min768': 'http://via.placeholder.com/992x300','min992': 'http://via.placeholder.com/1140x320','min1200': 'assets/img/about-img.jpg'}" />
 
